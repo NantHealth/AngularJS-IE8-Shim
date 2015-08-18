@@ -35,6 +35,12 @@ To start off, you'll need to add the following code at the bottom of your ```<he
 
 
 ##### THEN, you can add all your angularJS files, etc.
+
+```html
+<script src="angular.1.4.3.min.js" />
+<!-- etc etc -->
+```
+
 ##### - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 ##
 ##
