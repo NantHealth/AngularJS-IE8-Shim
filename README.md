@@ -5,7 +5,7 @@
   - Magic
 
 # How it works :: Installation
-To start off, you'll need to add the following code at the bottom of your ```<head>``` tag.
+To start off, you'll need to add the following code at the bottom of your ```<head>``` tag. This code includes the es5 shim, as well as some scripts & styles needed to get IE8 working like usual.
 
 ```html
 <!--[if IE 8]>
@@ -27,7 +27,12 @@ To start off, you'll need to add the following code at the bottom of your ```<he
 #
 ```html
 <script src="Angular-JS-ie8-shim.min.js" />
+
+<!-- Make sure you include jQuery 1.* somewhere here as well for iE8 -->
+
 ```
+
+
 
 ##### THEN, you can add all your angularJS files, etc.
 ##### - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
