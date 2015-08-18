@@ -7,7 +7,7 @@
 # How it works :: Installation
 To start off, you'll need to add the following code at the bottom of your ```<head>``` tag.
 
-```sh
+```html
 <!--[if IE 8]>
     <!-- you can use a CDN or host it locally -->
     <script src="//cdnjs.cloudflare.com/ajax/libs/es5-shim/4.0.5/es5-shim.min.js"></script>
@@ -25,7 +25,7 @@ To start off, you'll need to add the following code at the bottom of your ```<he
 
 ##### Now, in the end of your body tag where the rest of your JavaScript is, add the Angular IE8 shim:
 #
-```js
+```html
 <script src="AngularJS-ie8-shim.min.js" />
 ```
 
