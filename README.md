@@ -26,7 +26,7 @@ To start off, you'll need to add the following code at the bottom of your ```<he
 ##### Now, in the end of your body tag where the rest of your JavaScript is, add the Angular IE8 shim:
 #
 ```html
-<script src="AngularJS-ie8-shim.min.js" />
+<script src="Angular-JS-ie8-shim.min.js" />
 ```
 
 ##### THEN, you can add all your angularJS files, etc.
