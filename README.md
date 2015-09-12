@@ -7,7 +7,7 @@
   
 # General
 
-  - Tested as of the latest AngularJS version # 1.4.3
+  - Tested as of the latest AngularJS version # 1.4.5
   - Magic
 
 # How it works :: Installation
@@ -43,7 +43,7 @@ To start off, you'll need to add the following code at the bottom of your ```<he
 ##### THEN, you can add all your angularJS files, etc.
 
 ```html
-<script src="angular.1.4.3.min.js" />
+<script src="angular.1.4.5.min.js" />
 <!-- etc etc -->
 ```
 
