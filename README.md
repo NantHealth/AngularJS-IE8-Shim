@@ -20,7 +20,7 @@ To start off, you'll need to add the following code at the bottom of your ```<he
     <script>
         document.createElement('ng-view');
         document.createElement('ng-form');
-        <!-- ng-form is needed if you're using WebForms -->
+        <!-- ng-form is needed if you are using WebForms -->
     </script>
     <style>
         .ng-hide { display: none !important; }
@@ -43,7 +43,7 @@ To start off, you'll need to add the following code at the bottom of your ```<he
 ##### THEN, you can add all your angularJS files, etc.
 
 ```html
-<script src="angular.1.4.5.min.js" />
+<script src="angular.1.4.7.min.js" />
 <!-- etc etc -->
 ```
 
